@@ -90,9 +90,9 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\n");
       out.write("    <div class=\"col-lg-1\"></div>\n");
       out.write("    <div class=\"col-lg-10\">\n");
-      out.write("        <p style=\"font-size: 1.5em;\">Online Quiz Portal is the project made in Java Servlet in this user has to first register his or her account then registered user can select desired topic for quiz.<br /><br />\n");
+      out.write("        <p style=\"font-size: 1.5em;\">Online Quiz Portal is a project made with Java Servlet in this user have to first register his or her account then registered user can select desired topic for quiz.<br /><br />\n");
       out.write("\n");
-      out.write("            This project is developed by :<br>\n");
+      out.write("            This project was developed by :<br>\n");
       out.write("            1. Nikhil Gandhi<br>\n");
       out.write("            2. Sanskrati Gawande<br>\n");
       out.write("            3. Shivam Bhawsar \n");

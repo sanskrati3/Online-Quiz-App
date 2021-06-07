@@ -35,13 +35,17 @@
     <% } %>
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
-        <p style="font-size: 1.5em;">Online Quiz Portal is a project made with Java Servlet in this user have to first register his or her account then registered user can select desired topic for quiz.<br /><br />
+        <p style="font-size: 1.5em;">
+        <br/>
+            The ONLINE QUIZ is a web application for students to take online test in an efficient manner and no time wasting for checking the paper and automated gives fast results.
 
+            <br />
+        
             This project was developed by :<br>
             1. Nikhil Gandhi<br>
             2. Sanskrati Gawande<br>
             3. Shivam Bhawsar 
-        </p>
+        
     </div>
     <div class="col-lg-1"></div>
 </div>

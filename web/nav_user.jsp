@@ -15,7 +15,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="User">User Page</a></li>
                 <li><a href="SelectTopic">Quiz</a></li>
-                <li><a href="Upgrade">Upgrade Request</a></li>
+               
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
